@@ -84,15 +84,3 @@ pip install cryptography
 - [ ] Password-protected encryption key generation
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues](https://github.com/your-username/cryptography_tool/issues) or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
