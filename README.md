@@ -1,6 +1,6 @@
 # 🔐 cryptography_tool
 
-Welcome to **cryptography_tool** — a simple yet powerful command-line tool for encrypting and decrypting messages using Python's `cryptography` library. Whether you're learning about data security or need a quick encryption utility, this tool has you covered!
+Welcome to Cryptography Tool, a sleek and user-friendly Python-based utility for encrypting and decrypting your sensitive messages using the secure Fernet symmetric encryption from the cryptography library. Protect your data with ease and confidence! 🚀
 
 ---
 
@@ -14,6 +14,43 @@ Welcome to **cryptography_tool** — a simple yet powerful command-line tool for
 
 ---
 
+
+📦 Installation
+Get started in just a few steps:
+
+1.Clone the Repository:
+```bash
+git clone https://github.com/your-username/cryptography_tool.git
+cd cryptography_tool
+ ```
+2.Install Dependencies: Ensure you have Python 3.6+ installed, then run:
+```bash
+pip install cryptography
+```
+3.Run the Tools:
+For encryption: python encryption.py
+For decryption: python decryption.py
+
+---
+
+## 📦 Requirements
+
+- Python 3.6+
+- [`cryptography`](https://pypi.org/project/cryptography/)
+
+Install with:
+```bash
+pip install cryptography
+```
+
+---
+
+## 📁 Files Included
+
+- `encryption.py` – Script to encrypt your message and generate a secure key.
+- `decryption.py` – Script to decrypt the message using the encryption key.
+
+---
 ## 🛠️ How to Use
 
 ### ▶️ Encryption
@@ -57,26 +94,6 @@ Decrypted: Hello, world!
 ```
 
 ---
-
-## 📦 Requirements
-
-- Python 3.6+
-- [`cryptography`](https://pypi.org/project/cryptography/)
-
-Install with:
-```bash
-pip install cryptography
-```
-
----
-
-## 📁 Files Included
-
-- `encryption.py` – Script to encrypt your message and generate a secure key.
-- `decryption.py` – Script to decrypt the message using the encryption key.
-
----
-
 ## 🚧 Roadmap
 
 - [ ] Add GUI support
