@@ -15,19 +15,19 @@ Welcome to Cryptography Tool, a sleek and user-friendly Python-based utility for
 ---
 
 
-📦 Installation
+## 📦 Installation
 Get started in just a few steps:
 
-1.Clone the Repository:
+1. Clone the Repository:
 ```bash
 git clone https://github.com/your-username/cryptography_tool.git
 cd cryptography_tool
  ```
-2.Install Dependencies: Ensure you have Python 3.6+ installed, then run:
+2. Install Dependencies: Ensure you have Python 3.6+ installed, then run:
 ```bash
 pip install cryptography
 ```
-3.Run the Tools:
+3. Run the Tools:
 For encryption: python encryption.py
 For decryption: python decryption.py
 
