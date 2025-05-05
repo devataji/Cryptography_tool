@@ -20,7 +20,7 @@ Get started in just a few steps:
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/cryptography_tool.git
+git clone https://github.com/devataji/cryptography_tool.git
 cd cryptography_tool
  ```
 2. Install Dependencies: Ensure you have Python 3.6+ installed, then run:
