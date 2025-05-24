@@ -1,4 +1,4 @@
-# 🔐 cryptography_tool
+# 🔐 Cryptography_tool
 
 Welcome to Cryptography Tool, a sleek and user-friendly Python-based utility for encrypting and decrypting your sensitive messages using the secure Fernet symmetric encryption from the cryptography library. Protect your data with ease and confidence! 🚀
 
